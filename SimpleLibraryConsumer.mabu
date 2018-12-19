@@ -25,14 +25,3 @@ DEFS.win = \
 USES.win = \
 	glad \
 	glfw
-
-
-
-LIBPATHS.debug_lumin_clang-3.8_aarch64 = C:\Projects\Samples\SimpleLibrary\.out\debug_lumin_clang-3.8_aarch64
-SHLIBS.debug_lumin_clang-3.8_aarch64 = SimpleLibrary
-LIBPATHS.debug_win_msvc-2017_x64 = C:\Projects\Samples\SimpleLibrary\.out\debug_win_msvc-2017_x64
-SHLIBS.debug_win_msvc-2017_x64 = SimpleLibrary
-LIBPATHS.release_lumin_clang-3.8_aarch64 = C:\Projects\Samples\SimpleLibrary\.out\release_lumin_clang-3.8_aarch64
-SHLIBS.release_lumin_clang-3.8_aarch64 = SimpleLibrary
-LIBPATHS.release_win_msvc-2017_x64 = C:\Projects\Samples\SimpleLibrary\.out\release_win_msvc-2017_x64
-SHLIBS.release_win_msvc-2017_x64 = SimpleLibrary
