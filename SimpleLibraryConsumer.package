@@ -1,0 +1,3 @@
+MLCERT = "C:\Projects\Git\22ndtech\admin\magic-leap-private-key\magic-leap-certificate-2018-10-27.cert"
+REFS = SimpleLibraryConsumer \
+       ../SimpleLibrary/SimpleLibrary
