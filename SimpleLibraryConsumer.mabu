@@ -25,3 +25,6 @@ DEFS.win = \
 USES.win = \
 	glad \
 	glfw
+
+REFS = SimpleLibraryConsumer \
+       ../SimpleLibrary/SimpleLibrary
