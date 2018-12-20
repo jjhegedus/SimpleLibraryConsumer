@@ -26,5 +26,4 @@ USES.win = \
 	glad \
 	glfw
 
-REFS = SimpleLibraryConsumer \
-       ../SimpleLibrary/SimpleLibrary
+REFS = ../SimpleLibrary/SimpleLibrary
